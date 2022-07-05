@@ -1,8 +1,17 @@
 # infoProjekt
 
-to do:
+to do: 
 
-20x20 leeres png
+evtl. automatische Textur je nach angrnzenden Blöcken (Heckmann)
+Level Design (Sluga)
 
-Wand andere Färbung um 3D Effekt zu erzeugen
+
+Standpuknt jetzt:
+
+Funktioniert 
+
+
+Fehler: 
+
+Gegner spawnen wieder, wenn man den Bereich verlässt
 
